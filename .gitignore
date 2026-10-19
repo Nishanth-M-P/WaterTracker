@@ -31,6 +31,11 @@ mobile/ios/
 .pytest_cache/
 *.pyc
 *.tsbuildinfo
+*.db
+*.sqlite
+*.sqlite3
+mobile/*.txt
+mobile/test_*.pdf
 
 # Debug & logs
 npm-debug.*
