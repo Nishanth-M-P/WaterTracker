@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+mobile/node_modules/
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+__pycache__/
+
+# Expo
+.expo/
+mobile/.expo/
+web-build/
+mobile/web-build/
+dist/
+mobile/dist/
+expo-env.d.ts
+mobile/expo-env.d.ts
+
+# Native builds
+mobile/android/
+mobile/ios/
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Cache & tests
+.pytest_cache/
+*.pyc
+*.tsbuildinfo
+
+# Debug & logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local env
+.env*.local
