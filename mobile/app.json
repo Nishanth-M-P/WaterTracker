@@ -35,8 +35,7 @@
     "plugins": [
       "expo-router",
       "expo-sqlite",
-      "expo-sharing",
-      "expo-print"
+      "expo-sharing"
     ]
   }
 }
