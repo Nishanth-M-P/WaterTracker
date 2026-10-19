@@ -36,6 +36,17 @@
       "expo-router",
       "expo-sqlite",
       "expo-sharing"
-    ]
+    ],
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "6310d4ac-d8b0-4950-a4e6-afa6bd3b8edd"
+      }
+    },
+    "owner": "nishump"
   }
 }
